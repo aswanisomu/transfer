@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[browser is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser is maximised]]>
+    </line>
+    <line>
+      <![CDATA[browser is maximised]]>
+    </line>
+    <line>
+      <![CDATA[opened shoppers web page]]>
+    </line>
+    <line>
+      <![CDATA[opened uberweb page]]>
+    </line>
+    <line>
+      <![CDATA[opened shoppers web page]]>
+    </line>
+    <line>
+      <![CDATA[closed the browser]]>
+    </line>
+    <line>
+      <![CDATA[closed the browser]]>
+    </line>
+    <line>
+      <![CDATA[closed the browser]]>
+    </line>
+    <line>
+      <![CDATA[browser is launched]]>
+    </line>
+    <line>
+      <![CDATA[browser is maximised]]>
+    </line>
+    <line>
+      <![CDATA[opened Oppo web page]]>
+    </line>
+    <line>
+      <![CDATA[closed the browser]]>
+    </line>
+    <line>
+      <![CDATA[opened demoworkshop web page]]>
+    </line>
+    <line>
+      <![CDATA[closed the browser]]>
+    </line>
+    <line>
+      <![CDATA[opened shein page]]>
+    </line>
+    <line>
+      <![CDATA[closed the browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-09-14T19:17:04 BST" name="Suite" finished-at="2023-09-14T19:17:22 BST" duration-ms="18515">
+    <groups>
+    </groups>
+    <test started-at="2023-09-14T19:17:04 BST" name="Test" finished-at="2023-09-14T19:17:22 BST" duration-ms="18515">
+      <class name="workingwithTestNg.TestCase_002">
+        <test-method signature="shopperstack()[pri:0, instance:workingwithTestNg.TestCase_002@7c1e2a9e]" started-at="2023-09-14T19:17:04 BST" name="shopperstack" finished-at="2023-09-14T19:17:14 BST" duration-ms="10875" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[browser is maximised]]>
+            </line>
+            <line>
+              <![CDATA[opened shoppers web page]]>
+            </line>
+            <line>
+              <![CDATA[closed the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- shopperstack -->
+      </class> <!-- workingwithTestNg.TestCase_002 -->
+      <class name="workingwithTestNg.TestCase_001">
+        <test-method signature="demoworkshop()[pri:0, instance:workingwithTestNg.TestCase_001@fa36558]" started-at="2023-09-14T19:17:14 BST" name="demoworkshop" finished-at="2023-09-14T19:17:18 BST" duration-ms="4214" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[browser is maximised]]>
+            </line>
+            <line>
+              <![CDATA[opened demoworkshop web page]]>
+            </line>
+            <line>
+              <![CDATA[closed the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demoworkshop -->
+      </class> <!-- workingwithTestNg.TestCase_001 -->
+      <class name="workingwithTestNg.TestCase_004">
+        <test-method signature="uber()[pri:0, instance:workingwithTestNg.TestCase_004@394a2528]" started-at="2023-09-14T19:17:04 BST" name="uber" finished-at="2023-09-14T19:17:14 BST" duration-ms="10754" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[browser is maximised]]>
+            </line>
+            <line>
+              <![CDATA[opened uberweb page]]>
+            </line>
+            <line>
+              <![CDATA[closed the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- uber -->
+      </class> <!-- workingwithTestNg.TestCase_004 -->
+      <class name="workingwithTestNg.TestCase_003">
+        <test-method signature="openingacttime()[pri:0, instance:workingwithTestNg.TestCase_003@6236eb5f]" started-at="2023-09-14T19:17:04 BST" name="openingacttime" finished-at="2023-09-14T19:17:14 BST" duration-ms="10362" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[browser is maximised]]>
+            </line>
+            <line>
+              <![CDATA[opened shoppers web page]]>
+            </line>
+            <line>
+              <![CDATA[closed the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openingacttime -->
+      </class> <!-- workingwithTestNg.TestCase_003 -->
+      <class name="workingwithTestNg.TestCase_005">
+        <test-method signature="sheinwebsite()[pri:0, instance:workingwithTestNg.TestCase_005@11fc564b]" started-at="2023-09-14T19:17:04 BST" name="sheinwebsite" finished-at="2023-09-14T19:17:22 BST" duration-ms="18406" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[browser is maximised]]>
+            </line>
+            <line>
+              <![CDATA[opened shein page]]>
+            </line>
+            <line>
+              <![CDATA[closed the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sheinwebsite -->
+      </class> <!-- workingwithTestNg.TestCase_005 -->
+      <class name="workingwithTestNg.TC_Oppo_001">
+        <test-method signature="openingVivo()[pri:0, instance:workingwithTestNg.TC_Oppo_001@76ed1b7c]" started-at="2023-09-14T19:17:04 BST" name="openingVivo" finished-at="2023-09-14T19:17:18 BST" duration-ms="14119" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[browser is launched]]>
+            </line>
+            <line>
+              <![CDATA[browser is maximised]]>
+            </line>
+            <line>
+              <![CDATA[opened Oppo web page]]>
+            </line>
+            <line>
+              <![CDATA[closed the browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openingVivo -->
+      </class> <!-- workingwithTestNg.TC_Oppo_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
